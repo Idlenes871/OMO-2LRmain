@@ -1,0 +1,11 @@
+
+/.vs
+/MyML/obj
+/MyML/bin
+/LR2Form/obj
+*.pdb
+*.dll
+*.exe
+*.json
+*.resx
+*.csv
